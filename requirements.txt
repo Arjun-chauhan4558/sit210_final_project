@@ -1,0 +1,6 @@
+# Pothole Detection System — Raspberry Pi Python Dependencies
+requests>=2.28.0
+pyserial>=3.5
+smbus2>=0.4.2
+numpy>=1.20.0
+pyyaml>=6.0
